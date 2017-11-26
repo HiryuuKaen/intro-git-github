@@ -15,3 +15,4 @@ Course homepage:
 5. Create new Pull Request
 
 A little sentence !
+A second sentence!
